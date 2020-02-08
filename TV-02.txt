@@ -545,7 +545,7 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcat
 龙梅子-一段情歌一段伤,http://he.yinyuetai.com/uploads/videos/common/40B101414924563C08D6615317532CDA.flv
 龙梅子-情歌继续唱,http://he.yinyuetai.com/uploads/videos/common/959301414932FC2DEA97A4BC6D40B003.flv
 龙梅子-唱一首情歌,http://he.yinyuetai.com/uploads/videos/common/705B0165F236508537F6E786F64C5395.mp4
-龙梅子-海鸥飞,http://he.yinyuetai.com/uploads/videos/common/732101659FDC8F98A69DED62F12D88EA.mp4,http://he.yinyuetai.com/uploads/videos/common/386501621C5E81652B3C59C41CCFE2B2.mp4
+龙梅子-海鸥飞,http://he.yinyuetai.com/uploads/videos/common/386501621C5E81652B3C59C41CCFE2B2.mp4
 龙梅子-因为爱着你,http://he.yinyuetai.com/uploads/videos/common/26610165136184B5D53C1552548CA3C1.mp4
 龙梅子-水倒流,http://he.yinyuetai.com/uploads/videos/common/27C6016511CEE3AE1E4FE1A3FBC4434F.mp4
 龙梅子-离别的眼泪,http://he.yinyuetai.com/uploads/videos/common/1E290141494BB454232381739B02B227.flv
@@ -716,7 +716,7 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcat
 冷漠杨蔓-爱情算什么东西,http://he.yinyuetai.com/uploads/videos/common/5FB50163E3121702573820DEE0336661.mp4
 肖洋-行走的彩虹,http://he.yinyuetai.com/uploads/videos/common/E6780164FF55E70719CC37D27E7A51FD.mp4
 肖洋-天竺少女,http://he.yinyuetai.com/uploads/videos/common/B87D0164FF41456D7608399028E92E67.mp4
-肖洋-爱情独立日,http://he.yinyuetai.com/uploads/videos/common/0BDE0164FF0C64127CC22A282888E3B9.mp4,http://he.yinyuetai.com/uploads/videos/common/54580160FDAD52D186A29379DCBD98E9.mp4
+肖洋-爱情独立日,http://he.yinyuetai.com/uploads/videos/common/54580160FDAD52D186A29379DCBD98E9.mp4
 肖洋-无奈的思绪,http://he.yinyuetai.com/uploads/videos/common/B086015EA44CD9FF8FA2E38131EC5B38.mp4
 肖洋-舞女泪,http://he.yinyuetai.com/uploads/videos/common/CACB015EA77A70F10990BDA3AEC58916.mp4
 肖洋-独立日,http://he.yinyuetai.com/uploads/videos/common/4CC6014247C6CEF1DBDAAEC873EB7150.flv
