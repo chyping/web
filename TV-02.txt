@@ -503,3 +503,9 @@ Channel[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 CHC高清电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
 CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcat
+华数_BBC系列,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+华数_历史解密,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
+华数_大国时代,http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
+华数_睡前故事,http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
+华数_科教人文,http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
+高清时装台WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
