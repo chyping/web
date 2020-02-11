@@ -492,6 +492,7 @@ BestV HD2,http://39.135.15.70:6610/PLTV/88888888/224/3221225784/1/index.m3u8?fmt
 BestV HD3,http://39.135.15.70:6610/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
 BestV HD4,http://39.135.15.70:6610/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 BestV HD5,http://39.135.15.70:6610/PLTV/88888888/224/3221225999/1/index.m3u8?fmt=ts2hls
+贵州资源,#genre#
 CCTV-1HD,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=ca1f525f17a2eddd9c98fbe17997d9df
 CCTV-2HD,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=2a8ffd4ee56b3fe048ac854671336398
 CCTV-3HD,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=9c19c05ea31400b3c85598e71b2c39cf
