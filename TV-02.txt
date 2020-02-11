@@ -519,7 +519,7 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcat
 华数_睡前故事,http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
 华数_科教人文,http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
 高清时装台WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
-音乐视听,#genre#
+音乐视听1,#genre#
 阿妮桑-伤的都是有情人,http://he.yinyuetai.com/uploads/videos/common/5F2E01660A27B8BEAA57CDA3E088D41A.mp4
 阿妮桑-情愿孤独终老,http://he.yinyuetai.com/uploads/videos/common/770501660A2E4F89402BC5E56C73F226.mp4
 阿妮桑-定格幸福,http://he.yinyuetai.com/uploads/videos/common/77D801660A17C4FF01F0117FA4129097.mp4
@@ -617,3 +617,95 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcat
 苏子栖-梦里云烟,http://he.yinyuetai.com/uploads/videos/common/E3840161FAF2F82F6BE9E20D9AE0BF0D.mp4
 游美玲-爱上赤水,http://he.yinyuetai.com/uploads/videos/common/B7BA0161EA9CD643145C5D19998BC58F.mp4
 孙怡-等光HD,http://he.yinyuetai.com/uploads/videos/common/B13001668A1B6AA2B89C48D275D3A40C.mp4
+音乐视听2,#genre#
+迈阿密性感音乐台, http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w135985040_b742000.m3u8
+Miami-TV-音乐美女, http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w135985040_a742000.m3u8
+Radio-Number-One-TV, http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+NRJ-Hits, http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+HIT, http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+哭砂, http://221.228.226.5/14/f/n/n/k/fnnkrmxvtnrzfvxthfsxzfnybouzvo/hc.yinyuetai.com/7F72015E31FC1F3567BCA9D3EFC30D3F.mp4
+相思桃花雨, http://hc.yinyuetai.com/uploads/videos/common/22E20160208FFE1B8834AE918CE71EF3.mp4?sc=15582263b1219036&amp;br=779&amp;vid=3105718&amp;aid=16147&amp;area=ML&amp;vst=3
+叫一声二奶奶, http://hc.yinyuetai.com/uploads/videos/common/3A60016039EE5CD3D0BF266664F6E57D.mp4?sc=5d44b8cc5eabc05c&amp;br=780&amp;vid=3109191&amp;aid=21497&amp;area=ML&amp;vst=3
+带上你带上钱, http://he.yinyuetai.com/uploads/videos/common/C1BF0162B02C863A430B1446B4C92817.mp4?sc=dce42e56e378eeef&amp;br=3195&amp;vid=3191672&amp;aid=15655&amp;area=Other&amp;vst=3
+下一次相遇, http://hc.yinyuetai.com/uploads/videos/common/BF36015FA033B9E6930BFE395A4E002E.mp4?sc=c4baab4146e62517&amp;br=775&amp;vid=3085679&amp;aid=15655&amp;area=Other&amp;vst=3
+唐僧也疯狂, http://hc.yinyuetai.com/uploads/videos/common/84A1016039B43AD54C403F9579B53889.mp4?sc=94aef2e5140d9388&amp;br=776&amp;vid=3109178&amp;aid=29859&amp;area=ML&amp;vst=3
+你开心我快乐, http://he.yinyuetai.com/uploads/videos/common/711F01610CF11B7CD34365BD3EF23E0C.mp4?sc=40a6023739d0aca1&amp;br=3131&amp;vid=3137544&amp;aid=11988&amp;area=ML&amp;vst=3
+伤的是我, http://he.yinyuetai.com/uploads/videos/common/BCF70162648A09B84BAFAF19F8173038.mp4?sc=990db7218221ba27&amp;br=3118&amp;vid=3182407&amp;aid=15655&amp;area=Other&amp;vst=3
+爱情一场梦, http://he.yinyuetai.com/uploads/videos/common/71E501611C3ECAD8631A2042D00595A8.mp4?sc=4c91bd90595dcefb&amp;br=3127&amp;vid=3139784&amp;aid=21497&amp;area=ML&amp;vst=3
+黄金搭档, http://he.yinyuetai.com/uploads/videos/common/3C290162873B8312080477534AE35DF3.mp4?sc=c9c264649732fe36&amp;br=3150&amp;vid=3186593&amp;aid=15655&amp;area=Other&amp;vst=3
+牵手情放手爱, http://he.yinyuetai.com/uploads/videos/common/E8040160738DC6B67A7E985D43AE82D2.mp4?sc=40192d8b812007be&amp;br=3132&amp;vid=3117221&amp;aid=16147&amp;area=ML&amp;vst=3
+在你心里有个他, http://hc.yinyuetai.com/uploads/videos/common/8FD301608DDE5191B80F3515777DCB8C.mp4?sc=33be1fc5cb79c4dd&amp;br=780&amp;vid=3121187&amp;aid=29859&amp;area=ML&amp;vst=3
+天在下雨我在想你, http://hc.yinyuetai.com/uploads/videos/common/16A6016183B706515815100DB8618FD0.mp4?sc=12b8cf60aa7f3f33&amp;br=778&amp;vid=3155597&amp;aid=40055&amp;area=ML&amp;vst=2
+多余的温柔, http://he.yinyuetai.com/uploads/videos/common/A0E901626820D3C01E4393BD1D738388.mp4?sc=dc2964bd98dd5cd8&amp;br=3126&amp;vid=3182898&amp;aid=15655&amp;area=Other&amp;vst=3
+拥抱你离去, http://he.yinyuetai.com/uploads/videos/common/936701614ED056A2E514075640EED770.mp4?sc=9bb7d49fc62a8756&amp;br=3124&amp;vid=3147988&amp;aid=4538&amp;area=Other&amp;vst=3
+让我默默离开, http://he.yinyuetai.com/uploads/videos/common/017F0161EAE84CBD593BFB42193CD90C.mp4?sc=8646fe15e212eab9&amp;br=3130&amp;vid=3167181&amp;aid=4538&amp;area=Other&amp;vst=3
+等你那么久, http://hc.yinyuetai.com/uploads/videos/common/20D8015D924919380E400DC01CE63A54.mp4?sc=7e5b6db2e06ce8ff&amp;br=778&amp;vid=3003518&amp;aid=24006&amp;area=ML&amp;vst=3
+渡红尘, http://he.yinyuetai.com/uploads/videos/common/16A401602ABF9E1232765DDEBA0A6145.mp4?sc=61b6cf9bfccbca72&amp;br=3130&amp;vid=3107110&amp;aid=15655&amp;area=Other&amp;vst=3
+闯天涯, http://he.yinyuetai.com/uploads/videos/common/7F64016078131F259F0450A320846BFA.mp4?sc=eefd608c7d00659b&amp;br=3131&amp;vid=3117876&amp;aid=12159&amp;area=ML&amp;vst=3
+听着情歌疗情伤, http://hc.yinyuetai.com/uploads/videos/common/52A9015FF8FF22409F8F28017AA999FF.mp4?sc=e404927ac6bbfe4d&amp;br=778&amp;vid=3098338&amp;aid=29859&amp;area=ML&amp;vst=0
+红尘蝶恋, http://he.yinyuetai.com/uploads/videos/common/DC080160E9D54E9376C9AC18849B8DA3.mp4?sc=5082a8a9e9d92a5e&amp;br=3098&amp;vid=3133109&amp;aid=11988&amp;area=ML&amp;vst=3
+网络认识你, http://he.yinyuetai.com/uploads/videos/common/F2EE015EBBC81360B2CADDFEC02AC260.mp4?sc=8fdc4b0e053ebdc8&amp;br=3128&amp;vid=3051642&amp;aid=4538&amp;area=Other&amp;vst=3
+亲爱的我在等待, http://hc.yinyuetai.com/uploads/videos/common/3DD3015CF669B05B6BF94D8C1C5AA2B5.mp4?sc=1344f5d0f5cf931d&amp;br=779&amp;vid=2899593&amp;aid=4538&amp;area=Other&amp;vst=3
+没有谯能代替你, http://hd.yinyuetai.com/uploads/videos/common/A03A0161E6A007CA66458E17C87C617F.mp4?sc=5a77fa27f4e1aed1&amp;br=1101&amp;vid=3166720&amp;aid=16147&amp;area=ML&amp;vst=3
+错过缘分错过你, http://he.yinyuetai.com/uploads/videos/common/B731014AE30ED820B999AFCD2F4740C4.flv?sc=2fc39eaf8faf88a7&amp;br=3134&amp;vid=2219042&amp;aid=15996&amp;area=ML&amp;vst=0
+等你等了那么久, http://he.yinyuetai.com/uploads/videos/common/4D05013C398E69EA796615AFEC120FB2.flv?sc=64076081adc1d7a4&amp;br=3130&amp;vid=585416&amp;aid=24006&amp;area=ML&amp;vst=0
+我在红尘遇见你, http://hc.yinyuetai.com/uploads/videos/common/EBD5015F9BAD347CA5C872E57B06E266.mp4?sc=56c8b664cbe19d31&amp;br=779&amp;vid=3085304&amp;aid=11804&amp;area=ML&amp;vst=3
+钱, http://hc.yinyuetai.com/uploads/videos/common/E6E7013E2268981BC96A54917A72B72E.flv?sc=c4063009bc84579a&amp;br=777&amp;vid=645052&amp;aid=39596&amp;area=ML&amp;vst=0
+思念永不疲惫, http://hc.yinyuetai.com/uploads/videos/common/EABF015B418004A11FEE8DF2DB2DBFA6.mp4?sc=858f493bfb59d540&amp;br=773&amp;vid=2833410&amp;aid=15655&amp;area=Other&amp;vst=3
+今生遇见你, http://he.yinyuetai.com/uploads/videos/common/765A01576F53891061284F60BB518D9B.flv?sc=6f644cc458aba127&amp;br=3134&amp;vid=2689472&amp;aid=24006&amp;area=ML&amp;vst=0
+一起走天涯, http://he.yinyuetai.com/uploads/videos/common/79B50158BEF8F91CF9558C09CFF045C4.mp4?sc=2685be0f7ed3f575&amp;br=3128&amp;vid=2741276&amp;aid=22217&amp;area=ML&amp;vst=0
+猜, http://hc.yinyuetai.com/uploads/videos/common/A31D01602ECD9DD2F9A4F2D6E7325730.mp4?sc=86b141bbf7bd6116&amp;br=780&amp;vid=36849&amp;aid=3053&amp;area=ML&amp;vst=0
+明天我还会思念, http://hc.yinyuetai.com/uploads/videos/common/F1FE014C635C61281EBDC0CAD7CFAF25.mkv?sc=5f8591b3e8c18d30
+双人舞, http://221.228.226.18/8/q/u/x/h/quxhfjrkviommzwjfzlqbsbjlpqlir/he.yinyuetai.com/1C00015BDB3F0B288858C0E5D6D0D5FE.mp4
+青蛇, http://221.228.226.5:80/18/i/u/s/b/iusbwbwqlsxqokcyffndimgfxfzonq/he.yinyuetai.com/1CEA015F0A130E01164A3C76003F1F4F.mp4
+YouInMe, http://113.105.248.47:80/4/m/j/o/d/mjodgjtpwwmadchfksliizylspziqb/he.yinyuetai.com/2EC6015FDDF003AFAC428CE2412CD7DF.mp4
+美人谷, http://221.228.226.23/13/b/y/q/h/byqhrboejlcixenhstbomympxgznws/sh.yinyuetai.com/AA84015F71D195B09F4E9C19AE534F5D.mp4
+九妹, http://he.yinyuetai.com/8741015A21762B751EA04E916D3919C1.mp4
+追梦人, http://he.yinyuetai.com/B8600162474FAACCEA14D6B9F804F571.mp4
+恋曲1990, http://he.yinyuetai.com/A64E0161CC4434A41B6CB81763B0BF28.mp4
+午夜香吻, http://he.yinyuetai.com/421C01603AC7B98CFEBCF8E8C15FA67C.mp4
+渴死的鱼, http://he.yinyuetai.com/398E01602031019169A0644F4A183ABD.mp4
+不变的音乐, http://he.yinyuetai.com/A214015C155620CECC866AE2588FE8CC.mp4
+La-La-Love-On-My-Mind, http://he.yinyuetai.com/23E4015C9B16C6E0469D3C3F27861806.mp4
+《天生一对》全中文舞曲串烧大碟, http://he.yinyuetai.com/2FC30161221373B07F99B5EF0583E473.mp4
+没有你陪伴真的好孤单, http://he.yinyuetai.com/9613015F78ABA0CEF9B1F0DD3245FC9A.mp4
+舞女泪, http://he.yinyuetai.com/CACB015EA77A70F10990BDA3AEC58916.mp4
+心痛2011&amp;你把爱情给了谁, http://he.yinyuetai.com/735E015C66E38844861DF298AEB4688A.mp4
+寂寞的人伤心的歌, http://he.yinyuetai.com/B2D7016140A58C6082046F80E8547E19.mp4
+天在下雨我在想你, http://he.yinyuetai.com/1697016183BBE07FA2979898BA7C7606.mp4
+预谋, http://he.yinyuetai.com/85440160202CAC2F27A4F25F1AC4011E.mp4
+我的唇吻不到我爱的人dj版, http://he.yinyuetai.com/1B38015E3ADD748F6F23C5682CCDD89F.mp4
+火火的姑娘, http://he.yinyuetai.com/3B530160E32E645D9650B37074835BB6.mp4
+火火的姑娘DJ, http://he.yinyuetai.com/455101605F85DEBB2D35C6029DE115BA.mp4
+天蓝蓝, http://he.yinyuetai.com/D7C70160784FF4C08F0777C46440FB43.mp4
+坐上火车去拉萨, http://he.yinyuetai.com/28BC0160930B38C069060C1661F9DDF6.mp4
+套马杆, http://he.yinyuetai.com/4978015C25089A406F2C0608E711F300.mp4
+神奇草原, http://he.yinyuetai.com/6F14016025B1A56E146C1F95437806F8.mp4
+郎的诱惑, http://he.yinyuetai.com/AD4A016183B62FDE9A3885AAD7C6E6EF.mp4
+最炫民族风, http://he.yinyuetai.com/672701623E8BFEDE15AE397FD7885ED2.mp4
+不想回家的女人, http://he.yinyuetai.com/38B3016097EC4DACB131B1B58677B18C.mp4
+红尘情歌, http://he.yinyuetai.com/25E501605F9390EBD434388C4D6C13CB.mp4
+我们不一样, http://he.yinyuetai.com/0342016044690E135FB97AB09A9F2561.mp4
+分爱, http://he.yinyuetai.com/B070015F37CB5AF87AF5A01DE4099645.mp4
+相思的债, http://he.yinyuetai.com/0A1F015F4C3FD7E3501A333803D0D3EA.mp4
+唐古拉现场版, http://he.yinyuetai.com/8557015FC87D2BB2AEA55FA812B1B96F.mp4
+路边的野花不要采, http://he.yinyuetai.com/3BE2015D847197472C0F7B483DB7C328.mp4
+劲爆女声, http://hc.yinyuetai.com/uploads/videos/common/3E68015B52BB0661DC4A64404F982AC0.mp4
+菊花爆满山, http://hc.yinyuetai.com/BF580159DBADFE9C912E3411AC825E23.mp4
+元芳-你怎么看, http://he.yinyuetai.com/3887013E20D8823807252456852E41FF.mp4
+车载CD视听, http://he.yinyuetai.com/8CFC0161954E2320893EEE2F6A31928E.mp4
+听听看看100分钟, http://he.yinyuetai.com/C38B01620E059232AFE49FE6D7A5A7D4.mp4
+十年爱情故事, http://183.60.197.29/16/t/s/t/j/tstjdkyrdegjedqldzaxbvxudnyzvh/he.yinyuetai.com/FD43016245A1E04B4428D6F1DA0C21CF.mp4
+黑胶王, http://183.60.197.29/17/m/f/a/k/mfakzmjiehqbqqxzmdrbtxrqplylzt/he.yinyuetai.com/630A016145B97174C7F5C12458EC0F2D.mp4
+越南鼓音, http://183.60.197.29/15/z/z/j/z/zzjzeytztplnzewnovspsepnrhhdhw/he.yinyuetai.com/0E2F016241297B8671D2B78A0ED0D31A.mp4
+车载大碟, http://183.60.197.29/19/p/f/h/l/pfhlwhcggbsjbczncqkdabplvpzbvq/he.yinyuetai.com/F5AC01614FDF18BB2B5FB9D19A193574.mp4
+低音炮, http://183.60.197.29/15/r/n/v/b/rnvbejtaziewlrpjnqgyykzaqkbgot/he.yinyuetai.com/7E230162136CA46F5BF81A4861E7ABE6.mp4
+三月三劲爆, http://183.60.197.29/15/b/t/r/z/btrzmhakwxgfuuxfxcvlgwvwjodlsl/he.yinyuetai.com/F7880162D09F69AF6515BB914E6B2296.mp4
+乡村高音质, http://183.60.197.33/4/g/c/x/s/gcxsycrslygowrpkkpxklfpgnepnlz/he.yinyuetai.com/C9FC015BF4D3E197BF5D8B757EF6FA13.mp4
+环绕立体声, http://183.60.197.29/15/i/t/b/w/itbwkgfjewkmerfwjlcmghnqnzbzkw/he.yinyuetai.com/AE5D0161DD68B68480E327E067528604.mp4
+超嗨环绕立体声, http://183.60.197.29/14/a/q/w/y/aqwymqjdzotbvjsoosnnuotkjbexsg/he.yinyuetai.com/B09E0161DD6E6E76616CB4A4759D6473.mp4
+一路唱着情歌, http://183.60.197.29/16/y/f/x/j/yfxjpjovekonwfsgshbakyceiyadxi/he.yinyuetai.com/FC470162889266FDCD87E8973F1BA842.mp4
+3D甜甜歌后再曲倾国, http://183.60.197.29/14/l/y/a/t/lyatlqliqcnoluzibiorwxxclwyrww/he.yinyuetai.com/87AD0162D7343237E639D139F1D70C43.mp4
+情醉女声疗伤, http://183.60.197.29/15/h/c/g/l/hcglmadriswxvtzoknjodfoshblivl/he.yinyuetai.com/8501016240E545C6D213F86EEBEF5911.mp4
+3D环绕电音, http://183.60.197.26/4/y/h/g/e/yhgedwxafyupcewnbbopysfxwkspgu/sh.yinyuetai.com/A2C7015E045E9ADABFFD95FCE009419C.mp4
+音悦台Tai的MV, http://hc.yinyuetai.com/uploads/videos/common/A4720162EA861B6ECB7EF2602025F05D.mp4?sc=d94b66235b92f0ae&amp;br=778&amp;vid=3094424&amp;aid=5290&amp;area=HT&amp;vst=0Y
