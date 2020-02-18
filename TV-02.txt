@@ -305,11 +305,9 @@ DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966
 精彩频道,#genre#
 now直播,https://hdl0903.plures.net/onlive/e370820eb63af80e3e3d5d9d577dd786.flv
 now新闻台,https://hdl0903.plures.net/onlive/3bf629ef15df12f5fe9803691b0c8f69.flv
-有线电影台,http://pull.scphsd.com/live/bf3546ba909fdc051eff380750cfbb79.flv
-星河频道,https://hdl0903.plures.net/onlive/281068f7e4831cbefcf9d0ccad52d9af.flv
 陈翔六点半,http://aldirect.hls.huya.com/backsrc/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_2500.m3u8
-凤凰卫视中文台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-凤凰卫视资讯台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+凤凰卫视中文台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw#http://liveali.ifeng.com/live/FHZW.flv
+凤凰卫视资讯台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx#http://liveali.ifeng.com/live/FHZX.flv
 凤凰卫视电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 Star Sports,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
